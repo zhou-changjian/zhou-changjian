@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zhouchaunge.github.io/"><strong>Academic homepage ↗</strong></a>
+  <a href="https://zhou-changjian.github.io/"><strong>Academic homepage ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://scholar.google.com/citations?user=t6bjRe0AAAAJ&hl=en">Google&nbsp;Scholar</a>
   &nbsp; · &nbsp;
@@ -33,7 +33,7 @@ I build physics-aware models that learn from simulations and adapt to real-world
   <tr>
     <td width="50%" valign="top">
       <sub>01 &nbsp; / &nbsp; SIM-TO-REAL</sub>
-      <h3><a href="https://github.com/ZhouChaunge/PhysGuard">PhysGuard ↗</a></h3>
+      <h3><a href="https://github.com/zhou-changjian/PhysGuard">PhysGuard ↗</a></h3>
       <p>Fisher-guided gradient projection for physics-preserving adaptation of neural PDE surrogates.</p>
       <sub>Scientific ML · Neural PDEs</sub>
     </td>
@@ -41,7 +41,7 @@ I build physics-aware models that learn from simulations and adapt to real-world
       <sub>02 &nbsp; / &nbsp; LEARNED SIMULATION</sub>
       <h3><a href="https://github.com/Data-Driven-Computational-Geotechnics/TRACE">TRACE ↗</a></h3>
       <p>Contact-memory graph networks for learned simulation of granular dynamics.</p>
-      <p><a href="https://zhouchaunge.github.io/#pub-trace">Watch the locomotion demo ↗</a></p>
+      <p><a href="https://zhou-changjian.github.io/#pub-trace">Watch the locomotion demo ↗</a></p>
       <sub>Graph networks · Computational mechanics</sub>
     </td>
   </tr>
@@ -49,4 +49,4 @@ I build physics-aware models that learn from simulations and adapt to real-world
 
 **Open-source contributions** · [DeepCopilot](https://github.com/deep-copilot/DeepCopilot), a coding agent for VS Code · [StructureClaw](https://github.com/structureclaw/structureclaw), LLM agents for structural engineering.
 
-<p><sub>Publications, background, and collaborations → <a href="https://zhouchaunge.github.io/">zhouchaunge.github.io</a></sub></p>
+<p><sub>Publications, background, and collaborations → <a href="https://zhou-changjian.github.io/">zhou-changjian.github.io</a></sub></p>
